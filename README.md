@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dan-Hancock
-- I am a physics graduate student who is looking to start a career in data science. While I finish my M.S. on a project involving designing a system that utilizes Nuclear Magnetic Resonance
-- to be deployed in-situ to monitor environmental conditions in water, I am using my free time to learn about machine learning, artificial intelligence, natural language processing, and AWS services.
+- I am a physics graduate student who is looking to start a career in data science. While I finish my M.S. on a project involving designing a system that utilizes Nuclear Magnetic Resonance to be deployed in-situ to monitor environmental conditions in water, I am using my free time to learn about machine learning, artificial intelligence, natural language processing, and AWS services to prepare for my career.
 - 📫 drh6@email.sc.edu
 - 😄 Pronouns: he/him
 
